@@ -20,11 +20,11 @@
     "nodegit": "^0.4.1",
     "rimraf": "^2.4.2",
     "rsyncwrapper": "^0.4.3"
+    "webpack": "^1.11.0"
   },
   "devDependencies": {
     "eslint": "^0.24.1",
     "eslint-plugin-babel": "^1.2.0",
-    "webpack": "^1.11.0"
   },
   "repository": {
     "type": "git",
