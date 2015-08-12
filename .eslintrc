@@ -1,0 +1,31 @@
+{
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParams": true,
+    "destructuring": true,
+    "forOf": true,
+    "modules": true,
+    "restParams": true,
+    "spread": true,
+    "templateStrings": true
+  },
+  "rules": {
+    "semi": 2,
+    "quotes": [1, "double"],
+    "curly": [2, "multi-line"],
+    "space-before-blocks": 2,
+    "no-process-exit": 0,
+    "no-multi-spaces": 0,
+    "comma-dangle": 0
+  },
+  "parser": "babel-eslint",
+  "env": {
+    "node": true
+  },
+  "plugins": [
+    "babel"
+  ],
+  "globals": {}
+}
