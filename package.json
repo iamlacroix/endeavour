@@ -10,6 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "babel": "^5.8.21",
     "browser-sync": "^2.8.2",
     "bs-html-injector": "^2.0.4",
     "chalk": "^1.1.0",
@@ -21,7 +22,6 @@
     "rsyncwrapper": "^0.4.3"
   },
   "devDependencies": {
-    "babel": "^5.8.21",
     "eslint": "^0.24.1",
     "eslint-plugin-babel": "^1.2.0",
     "webpack": "^1.11.0"
