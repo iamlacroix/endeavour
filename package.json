@@ -1,6 +1,6 @@
 {
   "name": "endeavour",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Task helpers for web projects.",
   "main": "lib/index.js",
   "scripts": {
